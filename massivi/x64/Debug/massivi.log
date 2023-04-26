@@ -1,0 +1,4 @@
+﻿  massivi.cpp
+C:\PO\Lebedev\massivi\massivi\massivi.cpp(11,22): warning C4101: a: неиспользованная локальная переменная
+C:\PO\Lebedev\massivi\massivi\massivi.cpp(41): warning C4172: возвращение адреса локальной или временной переменной : mass
+  massivi.vcxproj -> C:\PO\Lebedev\massivi\x64\Debug\massivi.exe
